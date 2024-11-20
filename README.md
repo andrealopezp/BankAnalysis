@@ -26,7 +26,7 @@ If you are interested in accessing the **complete project**, including all detai
 
 eMoney's database structure as seen below consists of five tables:  customer_commercial_activity, customer_products, customer_sociodemographics, sales, and product_description, with a total row count of 2,997,300 records.
 
-![eMoney Dataset ERD](/Images/Dataset_ERD.png)
+![eMoney Dataset ERD](/assets/Dataset_ERD.png)
 
 1. **Customer Commercial Activity**: Information about customer acquisition channels, their engagement with the app, and their behavior over time. By analyzing the combination of entry channel, entry date, segment and app activity, we can extract customer acquisition insights, classify customers into different groups, understand customer engagement and retention, and identify seasonal patterns/trends.
 2. **Customer Products**: Information about customer purchasing habits, which provide an understanding of customer behavior and preferences. This information allows to refine commercial strategies and customize customer offers.
@@ -43,7 +43,7 @@ After peaking in October 2018, eMoney's sales have continued to decline, with si
 
 Below is the overview page from the Tableau dashboard and more examples are included throughout the report. It can be found [here.](https://public.tableau.com/app/profile/andrealopezp/viz/eMoney/DashboardIntro)
 
-![Dashboard](/Images/Dashboard.png)
+![Dashboard](/assets/Dashboard.png)
 
 
 
@@ -51,28 +51,28 @@ Below is the overview page from the Tableau dashboard and more examples are incl
 An analysis has been carried out on eMoney available data between January 2018 and May 2019 and useful observations have been extracted for making strategic decisions. Below we list the ideas:
 
 - **1. Products Popularity and Customer Preferences**
-![Dashboard](/Images/1.png)
+![Dashboard](/assets/1.png)
   - On average eMoney account has proven to be the flagship product among customers, with 55.71% of the total, followed by debit cards (11.59%), pension plans (5.03%) and payroll (4.97%) during 2019. In contrast, products such as short-term deposits, loans, and eMoney+ account did not register any market penetration.
   - The high implementation percentage of eMoney accounts suggests its popularity and predictive value of customer behavior, while the low implementation of other products such as securities or funds indicates their possible underutilization or focus on specific niches.
 
 - **2. Customer Loyalty Across Top Products**
-![Dashboard](/Images/2.png)
-![Dashboard](/Images/2.2.png)
+![Dashboard](/assets/2.png)
+![Dashboard](/assets/2.2.png)
   - Retention for the top five products has remained stable, with rates between 80% and 100% from October 2018 to April 2019. However, in May 2019, there was a decline in retention. Especially for debit cards, both eMoney and payroll accounts, suggesting possible changes in policies or market conditions. In addition, retention for eMoney Crypto accounts (34.01%) and debit cards (47.69%) were slightly below average, which may indicate a greater willingness of customers to cancel or change this product. In contrast, pension plans (from 82.56% in April decreases to 70.69% in May) and payrolls (from 95.78% decreases to 65.78% in May) maintain a more stable retention.
 
 - **3. New Customer Acquisition by Product**
-![Dashboard](/Images/3.png)
+![Dashboard](/assets/3.png)
     - There were significant peaks in July 2018, September 2018 and October 2018, likely driven by marketing campaigns, while months such as June 2018 and from December 2018 to April 2019 had very low acquisitions, possibly due to seasonality or lack of promotion.
     - Among the top-rated products, eMoney accounts has led sales throughout the entire period, followed by debit cards and payroll accounts. However, eMoney accounts that were a must-have product for new customers, seem to not be so today. The product has shown a very pronounced drop in recent months, highlighting a drop in popularity that could be influenced by consumer trends, government regulations, company perception and reputation or market competitors.
     - Pension plans and payrolls have a lower share, indicating that they might be less attractive to new customers or targeted at specific segments.
 
 - **4. Product Churn by Month**
-![Dashboard](/Images/4.png)
+![Dashboard](/assets/4.png)
     - Product churn changed month to month, with notable peaks in December 2018 and January 2019, suggesting possible changes in retention policies. eMoney accounts and debit cards recorded the highest churn rates (over 1K customers), while products such as pension plans and payrolls showed more stable rates, suggesting higher loyalty.
     - In 2019, a decrease in churn was observed compared to the second half of 2018, possibly as a result of adjustments in retention policies.
 
 - **5. Trends in Product Revenue Over Time**
-![Dashboard](/Images/5.png)
+![Dashboard](/assets/5.png)
   - eMoney accounts have been the main revenue generator in several periods, especially between 2015 and 2017, showing significant spikes compared to other products, which remained stable in revenue. Towards the end of 2018 and beginning of 2019, there was an overall decrease in revenue, which could indicate changes in demand or business strategies.
 
 

@@ -12,9 +12,9 @@ eMoney, a digital bank founded in 2015, specializes in simplifying financial man
 
 **Queries**:
 * **Data Merging**: The Python queries used to merge the datasets are **not publicly available**.
-* **Data Cleaning and Analysis**: The Python queries used to consolidate and analyze data can be found [here.](https://github.com/andrealopezp/....ipynb)
+* **Data Cleaning and Analysis**: The Python queries used to consolidate and analyze data can be found [here.](https://github.com/andrealopezp/BankAnalysis/blob/main/Bank_EDA.ipynb)
 * **Interactive Reporting Dashboard**: An interactive Tableau dashboard used to explore and report data can be found [here.](https://public.tableau.com/app/profile/andrealopezp/viz/eMoney/DashboardIntro)
-* **Customer Segmentation**: The Python queries used to segment customers can be found [here.](https://github.com/andrealopezp/....ipynb)
+* **Customer Segmentation**: The Python queries used to segment customers can be found [here.](https://github.com/andrealopezp/BankAnalysis/blob/main/Bank_Segmentation.ipynb)
 * **Predictive Model**: The Python queries used to build a predictive model are **not publicly available**.
 * **Targeted Marketing Strategy**: The Python queries used to propose a targeted marketing strategy are **not publicly available**.
 
